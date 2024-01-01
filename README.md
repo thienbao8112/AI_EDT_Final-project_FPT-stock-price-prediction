@@ -8,6 +8,7 @@ Github: https://github.com/thienbao8112/AI_EDT_Final-project_FPT-stock-price-pre
 
 **TABLE OF CONTENTS**
 **CHAPTER 1: INTRODUCTION**
+
 1.1 Stock Definition & Characteristics of Stock Market
 
   1.1.1 Stock Definition
