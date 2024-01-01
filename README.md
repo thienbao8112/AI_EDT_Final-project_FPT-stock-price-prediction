@@ -1,6 +1,9 @@
 This project is focused on predict the close price of FPT corporation using three models namely ARIMA, Random Forest, and RNN LSTM. 
+
 The project is avaiable at:
-Youtube: 
+
+Youtube: https://www.youtube.com/playlist?list=PL-7QE7UDrpMTxtqR6LZSWwaVI80Z9-6R_
+
 Github: https://github.com/thienbao8112/AI_EDT_Final-project_FPT-stock-price-prediction
 
 **TABLE OF CONTENTS**
