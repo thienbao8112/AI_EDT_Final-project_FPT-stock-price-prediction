@@ -1,4 +1,4 @@
-This project is focused on predict the close price of FPT corporation using three models namely ARIMA, Random Forest, and RNN LSTM. 
+This project is focused on predict the close price of FPT corporation using three models namely ARIMA, Random Forest, and LSTM. 
 
 The project is avaiable at:
 
