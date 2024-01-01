@@ -7,6 +7,7 @@ Youtube: https://www.youtube.com/playlist?list=PL-7QE7UDrpMTxtqR6LZSWwaVI80Z9-6R
 Github: https://github.com/thienbao8112/AI_EDT_Final-project_FPT-stock-price-prediction
 
 **TABLE OF CONTENTS**
+
 **CHAPTER 1: INTRODUCTION**
 
 1.1 Stock Definition & Characteristics of Stock Market
