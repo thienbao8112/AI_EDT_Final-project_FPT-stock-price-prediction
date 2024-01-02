@@ -2,7 +2,7 @@ This project is focused on predict the close price of FPT corporation using thre
 
 The project is avaiable at:
 
-Youtube: https://www.youtube.com/playlist?list=PL-7QE7UDrpMTxtqR6LZSWwaVI80Z9-6R_
+Youtube: [https://www.youtube.com/playlist?list=PL-7QE7UDrpMTxtqR6LZSWwaVI80Z9-6R_](https://www.youtube.com/watch?v=NutuEvZsEeE&ab_channel=lybao)
 
 Github: https://github.com/thienbao8112/AI_EDT_Final-project_FPT-stock-price-prediction
 
